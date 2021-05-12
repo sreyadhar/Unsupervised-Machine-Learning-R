@@ -8,3 +8,6 @@ Questions and Solutions are provided accordingly.
 5. Bayesian Learning
 6. Self Organizing Maps
 7. Page-Rank Algorithm 
+
+Final Project Demo:
+https://www.youtube.com/watch?v=oRCzrjc4PjM
